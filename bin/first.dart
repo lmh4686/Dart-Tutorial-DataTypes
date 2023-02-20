@@ -34,7 +34,7 @@ void main(List<String> arguments) {
   //// gets Error unlike with dynamic
   //// myVariable = 4;
 
-  //// final does not allow to update
+  //// final does not allow to re-assign value
   final myFinal = 'dfs';
   //// gets error when attempt to update
   //// myFinal = 'ss';
